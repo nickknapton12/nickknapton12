@@ -10,3 +10,5 @@ I'm fullstack software engineer currently studying at the University of Calgary.
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=nickknapton12&hide=stars&count_private=true&show_icons=true&theme=algolia"
 />
+
+![Visitor Count](https://profile-counter.glitch.me/{nickknapton12}/count.svg)
