@@ -1,10 +1,24 @@
-### Welcome to my Github 👋
+## Welcome to my Github 👋
 I'm fullstack software engineer currently studying at the University of Calgary. I'm always open to new opportunities! I'm from Whistler BC, and love mountain biking in my free time!
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasknapton/) <br />
 :computer: [Website](https://www.nicholasknapton.tech/) <br />
-:point_right: [Linkedin](https://www.linkedin.com/in/nicholasknapton/) <br />
 :page_facing_up: [Resume](https://www.nicholasknapton.tech/static/media/NicholasKnapton.25be9332.pdf) <br />
-:email: [Contact Me](mailto:nickknapton12@gmail.com)
+:email: [Email Me](mailto:nickknapton12@gmail.com)
+
+### 🔧 Working with 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 <img
   align="center"
