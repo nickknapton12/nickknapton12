@@ -1,4 +1,7 @@
-## Welcome to my Github 👋
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&multiline=true&width=480&height=140&lines=Hey;My+name+is+Nick+Knapton;I+study+Software+Engineering" />
+</div>
+
 I'm fullstack software engineer currently studying at the University of Calgary. I'm always open to new opportunities! I'm from Whistler BC, and love mountain biking in my free time!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasknapton/) <br />
