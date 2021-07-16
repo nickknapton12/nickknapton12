@@ -24,3 +24,24 @@ I'm fullstack software engineer currently studying at the University of Calgary.
   align="center"
   src="https://github-readme-stats.vercel.app/api?username=nickknapton12&hide=stars&count_private=true&show_icons=true&theme=algolia"
 />
+
+```javascript
+const more_about_me = {
+    name: "Nick Knapton",
+    home_town: "Whistler, BC",
+    education: {
+        school: "University of Calgary",
+        pursuing: "Bachelor of Software Engineering",
+    },
+    coding: {
+        languages: [C++, C, Java, JavaScript, Python],
+        tools: [Git, React, Node, Express],
+        databases: [MongoDB, MySQL],
+        misc: [Heroku, Firebase]
+    },
+    current_focus: "Learning new languages and tools to expand my skillset.",
+    passion: "To impove in something every day.",
+    interests: [Mountain_Biking, Cars, Computers, Fitness],
+    favorite_cars: [Nissan_Skyline_r34, Lancia_Delta_S4, Porsche_911, Koenigsegg_Agera_rs, Mercedes_Amg_gt]
+}
+```
