@@ -6,8 +6,6 @@ I'm fullstack software engineer currently studying at the University of Calgary.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasknapton/) <br />
 :computer: [Website](https://www.nicholasknapton.tech/) <br />
-:page_facing_up: [Resume](https://www.nicholasknapton.tech/static/media/NicholasKnapton.25be9332.pdf) <br />
-:email: [Email Me](mailto:nickknapton12@gmail.com)
 
 ### 🔧 Working with 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
