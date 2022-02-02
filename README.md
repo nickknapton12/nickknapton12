@@ -5,7 +5,7 @@
 I'm fullstack software engineer currently studying at the University of Calgary. I'm always open to new opportunities! I'm from Whistler BC, and love mountain biking in my free time!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasknapton/) <br />
-:computer: [Website](https://www.nicholasknapton.tech/) <br />
+:computer: [Website](https://www.nicholasknapton.ca/) <br />
 
 ### 🔧 Working with 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
