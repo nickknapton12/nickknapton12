@@ -18,7 +18,7 @@ I'm fullstack software engineer currently studying at the University of Calgary.
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <img
@@ -35,7 +35,7 @@ const more_about_me = {
         pursuing: "Bachelor of Software Engineering",
     },
     coding: {
-        languages: [C++, C, Java, JavaScript, Python],
+        languages: [C++, C, Java, JavaScript, Python, TypeScript],
         tools: [Git, React, Node, Express],
         databases: [MongoDB, MySQL],
         misc: [Heroku, Firebase]
