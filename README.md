@@ -21,11 +21,6 @@ I'm fullstack software engineer currently studying at the University of Calgary.
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api?username=nickknapton12&hide=stars&count_private=true&show_icons=true&theme=algolia"
-/>
-
 ```javascript
 const more_about_me = {
     name: "Nick Knapton",
